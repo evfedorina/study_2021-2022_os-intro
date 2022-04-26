@@ -84,14 +84,11 @@ header-includes:
 
 # Теоретическое введение
                                                                            |
-
-Более подробно об Unix см. в [@gnu-doc:bash;@newham:2005:bash;@zarrelli:2017:bash;@robbins:2013:bash;@tannenbaum:arch-pc:ru;@tannenbaum:modern-os:ru].
-
 # Выполнение лабораторной работы
 
-Описываются проведённые действия, в качестве иллюстрации даётся ссылка на иллюстрацию (рис. [-@fig:001])
+ 1. Создали учётную запись на github и заполнили основные данные (рис. [-@fig:001])
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+!рис.1(image/1.png){ #fig:001 width=70% }
 
 # Выводы
 
