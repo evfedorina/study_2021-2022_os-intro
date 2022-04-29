@@ -1,7 +1,8 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Structural approach to the deep learning method
+title: Основы интерфейса взаимодействия
+пользователя с системой Unix на уровне командной строки
 author: |
 	Федорина Эрнест Васильевич
 institute: |
