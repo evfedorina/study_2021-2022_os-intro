@@ -182,21 +182,71 @@ cat?
 # Выполнение лабораторной работы
 
 
-![имя каталога](image/1.png){рис.1}
+Выполняем все примеры из первой части указаний к лабораторной работе.(рис.1)
 
-![tmp](image/2.png){рис.2}
+![примеры](image/1.png){рис.1}
 
-![ls -l](image/3.png){рис.3}
+Скопировали файл /usr/include/sys/io.h в домашний каталог и назвали его
+equipment.(рис.2)
+
+![equipment](image/2.png){рис.2}
+
+Задание 2(рис.3)
+- В домашнем каталоге создали  ~/ski.plases.
+
+`mkdir ski.plases`
+
+- Переместили файл equipment в каталог ~/ski.plases.
+
+`mv equipment ski.plases`
+
+- Переименовали файл ~/ski.plases/equipment в ~/ski.plases/equiplist.
+
+`mv ski.plases/equipment ski.plases/equiplist`
+
+- Создали в домашнем каталоге файл abc1 и скопировали его в каталог
+~/ski.plases, назвали его equiplist2.
+
+`cp abc1 ski.plases/equiplist2`
+
+- Создайли каталог с именем equipment в каталоге ~/ski.plases.
+`mkdir ski.plases/equipment`
+
+- Переместите файлы ~/ski.plases/equiplist и equiplist2 в каталог
+~/ski.plases/equipment.
+`mv ski.plases/equiplist ski.plases/equiplist2 ski.plases/equipment`
+
+- Создали и переместили каталог ~/newdir в каталог ~/ski.plases и назовите
+его plans.
+
+`mv newdir ski.plases/plans`
+
+![задание 2](image/3.png){рис.3}
+
+
+
 
 ![работа с newdir](image/4.png){рис.4}
 
+
+
 ![ls -R](image/5.png){рис.5}
+
+
 
 ![ls -lt](image/6.png){рис.6}
 
+
+
 ![man](image/8.png){рис.8}
 
+
+
 ![модификация](image/9.png){рис.9}
+
+
+
+![модификация](image/10.png){рис.10}
 
 
 
